@@ -28,7 +28,7 @@ A Retrieval-Augmented Generation (RAG) based chatbot that helps answer legal que
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/rag-legal-assistant.git
+git clone https://github.com/ys321/rag-legal-assistant.git
 cd rag-legal-assistant
 ```
 
@@ -84,7 +84,7 @@ rag-legal-assistant/
 ├── app.py                      # Main entry point
 ├── doc/                        # Directory for `.docx` files
 ├── faiss_db/                   # Auto-generated FAISS DB (after run)
-├── requirements.txt            # Python dependencies
+└── requirements.txt            # Python dependencies
 ```
 
 ---
