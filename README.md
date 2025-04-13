@@ -73,7 +73,7 @@ Then simply start chatting with your legal assistant:
 ```
 Welcome to the Legal Chatbot! How can I assist you today?
 You: What are the terms for payment in the agreement?
-Bot: The agreement states that INR 1,50,000 is paid upon signing and INR 3,50,000 on delivery.
+Agent: The agreement states that INR 1,50,000 is paid upon signing and INR 3,50,000 on delivery.
 ```
 
 ---
@@ -96,7 +96,3 @@ rag-legal-assistant/
 - History tracking
 
 ---
-
-## 📜 License
-MIT License
-
