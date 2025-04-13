@@ -1,5 +1,3 @@
-# legal_chatbot.py
-
 import os
 import shutil
 from langchain.document_loaders import Docx2txtLoader
