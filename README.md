@@ -2,6 +2,8 @@
 
 A Retrieval-Augmented Generation (RAG) based chatbot that helps answer legal queries by extracting relevant information from `.docx` legal documents. Built using **LangChain**, **FAISS**, **HuggingFace Embeddings**, and **Ollama LLM**.
 
+![Github](https://github.com/user-attachments/assets/bce6d87e-ce5b-4f8d-b06e-d8ee261e5b12)
+
 ---
 
 ## 🧠 Features
