@@ -14,6 +14,12 @@ A Retrieval-Augmented Generation (RAG) based chatbot that helps answer legal que
 
 ---
 
+## Requirements
+
+### Hardware Requirements:
+- **GPU**: A GPU with at least **4 GB of memory** is required for optimal performance. The model may run into memory issues if the available GPU memory is less than this.
+---
+
 ## 🛠 Tech Stack
 
 - [LangChain](https://www.langchain.com/)
